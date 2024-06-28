@@ -7,8 +7,8 @@ import { FiGithub } from "react-icons/fi";
 
 const PortfolioBanner = () => {
     return (
-        <div className="pt-48">
-            <div className="max-w-[85%] mx-auto min-h-screen">
+        <div className="py-48">
+            <div className="max-w-[85%] mx-auto">
   <div className="flex lg:flex-row-reverse items-center justify-between">
 
   <div className="rounded-full">
