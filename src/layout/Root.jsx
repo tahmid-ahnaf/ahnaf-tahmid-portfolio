@@ -4,7 +4,7 @@ import Navbar from "../Pages/Shared/Navbar/Navbar";
 
 const Root = () => {
     return (
-        <div className="font-playfairDisplay">
+        <div className="font-poppins">
             <Navbar></Navbar>
             <Outlet></Outlet>
             {/* <Footer></Footer> */}

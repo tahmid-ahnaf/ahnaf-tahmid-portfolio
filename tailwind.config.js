@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {},
     fontFamily: {
-      playfairDisplay: ["Playfair Display", "serif"],
+      poppins: ["Poppins", "sans-serif"],
     },
   },
   daisyui: {

@@ -1,6 +1,7 @@
 import { PiCertificate } from "react-icons/pi";
 import { BiSupport } from "react-icons/bi";
 import { MdOutlineIncompleteCircle } from "react-icons/md";
+import { FaRegFileAlt } from "react-icons/fa";
 const PortfolioAbout = () => {
     
   return (
@@ -51,7 +52,7 @@ const PortfolioAbout = () => {
             created several full stack projects.
           </p>
 
-          <div><button className="btn btn-lg btn-neutral">Download My CV</button></div>
+          <div><button className="btn btn-lg btn-neutral">Download My CV <FaRegFileAlt /> </button></div>
         </div>
       </div>
     </div>
