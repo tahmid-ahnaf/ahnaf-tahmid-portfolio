@@ -4,6 +4,7 @@ import PortfolioAbout from '../../components/PortfolioAbout/PortfolioAbout';
 import PortfolioSkills from '../../components/PortfolioSkills/PortfolioSkills';
 import PortfolioContact from '../../components/PortfolioContact/PortfolioContact';
 import PortfolioEducationalQualification from '../../components/PortfolioEducationalQualification/PortfolioEducationalQualification';
+import PortfolioProjects from '../../components/PortfolioProjects/PortfolioProjects';
 
 const Home = () => {
     return (
@@ -17,6 +18,8 @@ const Home = () => {
             <PortfolioSkills></PortfolioSkills>
             <PortfolioContact></PortfolioContact>
             <PortfolioEducationalQualification></PortfolioEducationalQualification>
+
+            <PortfolioProjects></PortfolioProjects>
         </div>
         
     );
