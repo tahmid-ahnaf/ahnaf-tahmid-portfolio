@@ -3,6 +3,7 @@ import PortfolioBanner from '../../components/PortfolioBanner/PortfolioBanner';
 import PortfolioAbout from '../../components/PortfolioAbout/PortfolioAbout';
 import PortfolioSkills from '../../components/PortfolioSkills/PortfolioSkills';
 import PortfolioContact from '../../components/PortfolioContact/PortfolioContact';
+import PortfolioEducationalQualification from '../../components/PortfolioEducationalQualification/PortfolioEducationalQualification';
 
 const Home = () => {
     return (
@@ -15,6 +16,7 @@ const Home = () => {
             <PortfolioAbout></PortfolioAbout>
             <PortfolioSkills></PortfolioSkills>
             <PortfolioContact></PortfolioContact>
+            <PortfolioEducationalQualification></PortfolioEducationalQualification>
         </div>
         
     );
