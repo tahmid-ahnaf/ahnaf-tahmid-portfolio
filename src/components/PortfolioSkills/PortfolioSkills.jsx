@@ -1,7 +1,7 @@
 import { IoCheckmarkDoneCircleSharp } from "react-icons/io5";
 const PortfolioSkills = () => {
   return (
-    <div className="max-w-[85%] mx-auto py-48">
+    <div className="max-w-[85%] mx-auto py-48" id="skills">
 
     <h2 className="text-center text-4xl">Skills</h2>
     <p className="text-3xl text-center mb-8">My Technical Level</p>

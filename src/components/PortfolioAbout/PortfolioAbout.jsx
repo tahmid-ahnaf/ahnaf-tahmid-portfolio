@@ -5,7 +5,7 @@ import { FaRegFileAlt } from "react-icons/fa";
 const PortfolioAbout = () => {
     
   return (
-    <div className="max-w-[85%] mx-auto">
+    <div className="max-w-[85%] mx-auto " id="about">
       <h2 className="text-4xl text-center mb-2 font-bold">About Me</h2>
       <p className="text-3xl text-center mb-20">My Introduction</p>
 

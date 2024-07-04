@@ -2,7 +2,7 @@ import React from "react";
 
 const PortfolioEducationalQualification = () => {
   return (
-    <div className="max-w-[85%] mx-auto py-48">
+    <div className="max-w-[85%] mx-auto py-48 " id="qualification">
       <h2 className="text-4xl text-center">Qualification</h2>
       <p className="text-2xl text-center">My Educational Qualification</p>
 
