@@ -16,10 +16,12 @@ const Home = () => {
             <PortfolioBanner></PortfolioBanner>
             <PortfolioAbout></PortfolioAbout>
             <PortfolioSkills></PortfolioSkills>
-            <PortfolioContact></PortfolioContact>
-            <PortfolioEducationalQualification></PortfolioEducationalQualification>
-
             <PortfolioProjects></PortfolioProjects>
+            <PortfolioEducationalQualification></PortfolioEducationalQualification>
+            <PortfolioContact></PortfolioContact>
+            
+
+            
         </div>
         
     );

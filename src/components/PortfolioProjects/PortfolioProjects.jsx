@@ -2,7 +2,7 @@ import { AiOutlineSend } from "react-icons/ai";
 
 const PortfolioProjects = () => {
   return (
-    <div className="max-w-[60%] mx-auto py-48" id="projects">
+    <div className="max-w-[60%] mx-auto py-24" id="projects">
       <dialog id="my_modal_1" className="modal">
         <div className="modal-box">
           <form method="dialog">
@@ -194,8 +194,8 @@ const PortfolioProjects = () => {
           </h3>
         </div>
       </dialog>
-      <h2 className="text-4xl text-center">Projects</h2>
-      <p className="text-2xl text-center">Most Recent Works</p>
+      <h2 className="text-4xl text-center mb-2 font-bold">Projects</h2>
+      <p className="text-3xl text-center mb-20">Most Recent Works</p>
 
       <div className="grid grid-cols-2 gap-12 justify-center mt-12">
         <div className="card shadow-xl">

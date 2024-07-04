@@ -2,9 +2,9 @@ import React from "react";
 
 const PortfolioEducationalQualification = () => {
   return (
-    <div className="max-w-[85%] mx-auto py-48 " id="qualification">
-      <h2 className="text-4xl text-center">Qualification</h2>
-      <p className="text-2xl text-center">My Educational Qualification</p>
+    <div className="max-w-[85%] mx-auto py-24 " id="qualification">
+      <h2 className="text-4xl text-center mb-2 font-bold">Qualification</h2>
+      <p className="text-3xl text-center mb-20">My Educational Qualification</p>
 
       <div className="mt-12">
       <ul className="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical">

@@ -33,9 +33,9 @@ const PortfolioContact = () => {
       );
   };
   return (
-    <div className="max-w-[85%] mx-auto py-48 " id="contact">
-      <h2 className="text-4xl text-center">Contact Me</h2>
-      <p className="text-2xl text-center">Get in touch</p>
+    <div className="max-w-[85%] mx-auto pt-24 pb-36 " id="contact">
+      <h2 className="text-4xl text-center mb-2 font-bold">Contact Me</h2>
+      <p className="text-3xl text-center mb-20">Get in touch</p>
 
       <div className="grid grid-cols-2 gap-8 justify-center">
         <div className="flex flex-col gap-8 ">

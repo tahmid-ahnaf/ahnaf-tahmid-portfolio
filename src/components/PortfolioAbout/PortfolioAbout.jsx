@@ -52,7 +52,7 @@ const PortfolioAbout = () => {
             created several full stack projects.
           </p>
 
-          <div><button className="btn btn-lg btn-neutral">Download My CV <FaRegFileAlt /> </button></div>
+          <div><button className="btn btn-lg btn-neutral"><a href="https://drive.google.com/uc?export=download&id=1mf63H4-jmpyWtGDSgm5OAV8XWE5qFkIc">Download My CV</a> <FaRegFileAlt /> </button></div>
         </div>
       </div>
     </div>
